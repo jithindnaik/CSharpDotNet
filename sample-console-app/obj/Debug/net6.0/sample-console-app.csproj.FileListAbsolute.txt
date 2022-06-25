@@ -1,0 +1,15 @@
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/bin/Debug/net6.0/sample-console-app
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/bin/Debug/net6.0/sample-console-app.deps.json
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/bin/Debug/net6.0/sample-console-app.runtimeconfig.json
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/bin/Debug/net6.0/sample-console-app.dll
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/bin/Debug/net6.0/sample-console-app.pdb
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/obj/Debug/net6.0/sample-console-app.csproj.AssemblyReference.cache
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/obj/Debug/net6.0/sample-console-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/obj/Debug/net6.0/sample-console-app.AssemblyInfoInputs.cache
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/obj/Debug/net6.0/sample-console-app.AssemblyInfo.cs
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/obj/Debug/net6.0/sample-console-app.csproj.CoreCompileInputs.cache
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/obj/Debug/net6.0/sample-console-app.dll
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/obj/Debug/net6.0/refint/sample-console-app.dll
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/obj/Debug/net6.0/sample-console-app.pdb
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/obj/Debug/net6.0/sample-console-app.genruntimeconfig.cache
+/Users/jithinnaik/Coding/CSharp/CSharpDotNet/sample-console-app/obj/Debug/net6.0/ref/sample-console-app.dll
